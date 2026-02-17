@@ -1,0 +1,34 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Env files
+.env
+.env.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+client/dist/
+build/
+dist/
+
+# Uploads / local storage
+server/uploads/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Optional: lockfiles if you prefer not to commit them
+# package-lock.json
+# yarn.lock

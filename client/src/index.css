@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Responsive base */
+html {
+  scroll-behavior: smooth;
+}
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+}
