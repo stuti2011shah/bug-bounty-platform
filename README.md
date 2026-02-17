@@ -4,7 +4,7 @@ A web-based Bug Bounty platform where users can post bugs with rewards, and othe
 
 ## Tech Stack
 
-- **Backend:** Node.js, Express, MongoDB, Mongoose
+- **Backend:** Node.js, Express, MongoDBAtlas, Mongoose
 - **Frontend:** React, Vite, Tailwind CSS, React Router, Axios
 - **Auth:** JWT (jsonwebtoken), bcrypt
 
@@ -40,11 +40,11 @@ npm run seed
 - `JWT_SECRET` – Secret for JWT signing
 - `PORT` – (optional) defaults to 5000
 
-Example `.env` values:
-
-- `MONGO_URI=mongodb://localhost:27017/bugbounty` (or your Atlas URI)
-- `JWT_SECRET=replace_with_a_secure_random_string`
-- `PORT=5000`
+```env
+PORT=5000
+MONGO_URI=mongodb+srv://<username>:<password>@cluster0.fmzv4.mongodb.net/bugbounty
+JWT_SECRET=<your_jwt_secret>
+NODE_ENV=development
 
 ### Frontend
 
