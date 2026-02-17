@@ -120,12 +120,13 @@ See [docs/API.md](./docs/API.md) for endpoint details.
 See [docs/SCHEMA.md](./docs/SCHEMA.md) for ER diagram and schema description.
 ## 📸 Project Screenshots
 
+## 📸 Project Screenshots
+
 ### 🏠 Home Page
-![Home Page](bug-bounty/screenshots/1.png)
+![Home Page](screenshots/home.png)
 
 ### 🐞 Bug Listing
-![Bug List](bug-bounty/screenshots/2.png)
+![Bug Listing](screenshots/bug-list.png)
 
 ### ➕ Create Bug
-![Create Bug](bug-bounty/screenshots/3.png)
-
+![Create Bug](screenshots/create-bug.png)
