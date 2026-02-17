@@ -118,3 +118,14 @@ See [docs/API.md](./docs/API.md) for endpoint details.
 ## Database Schema
 
 See [docs/SCHEMA.md](./docs/SCHEMA.md) for ER diagram and schema description.
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](bug-bounty/screenshots/1.png)
+
+### 🐞 Bug Listing
+![Bug List](bug-bounty/screenshots/2.png)
+
+### ➕ Create Bug
+![Create Bug](bug-bounty/screenshots/3.png)
+
